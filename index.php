@@ -53,7 +53,6 @@
 	<script src="assets/plugins/bootstrap/js/bootstrap.js"></script>
 	<script src="assets/js/login.js"></script>
 	<!--END PAGE LEVEL SCRIPTS -->
-
 </body>
     <!-- END BODY -->
 </html>
