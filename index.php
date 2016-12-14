@@ -47,7 +47,7 @@
 	</div>
 
 	  <!--END PAGE CONTENT -->     
-	      
+	   <!-- SAYA TAMBAH INI -->   
 	<!-- PAGE LEVEL SCRIPTS -->
 	<script src="assets/plugins/jquery-2.0.3.min.js"></script>
 	<script src="assets/plugins/bootstrap/js/bootstrap.js"></script>
